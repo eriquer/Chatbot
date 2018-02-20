@@ -44,7 +44,7 @@
                                 <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <state key="normal">
                                     <attributedString key="attributedTitle">
-                                        <fragment content="Send Message to Chip">
+                                        <fragment content="Send a message to Chip">
                                             <attributes>
                                                 <font key="NSFont" size="18" name="Avenir-Book"/>
                                             </attributes>
